@@ -1,4 +1,4 @@
-# Stock Market Real Time Analysis Using Kafka
+# Stock Market Real-Time Analysis Using Kafka
 
 ## Introduction 
 This project analyzes real-time stock market data using **Apache Kafka** for data streaming. It processes stock price updates, detects trends, and provides real-time insights.  
@@ -14,4 +14,4 @@ This project analyzes real-time stock market data using **Apache Kafka** for dat
 3. Glue Crawler
 4. Glue Catalog
 5. EC2
-- Apache Kafka
+6. Apache Kafka
